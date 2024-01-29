@@ -1,0 +1,14 @@
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\QueueDemo\QueueDemo\bin\Debug\net7.0\QueueDemo.exe
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\QueueDemo\QueueDemo\bin\Debug\net7.0\QueueDemo.deps.json
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\QueueDemo\QueueDemo\bin\Debug\net7.0\QueueDemo.runtimeconfig.json
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\QueueDemo\QueueDemo\bin\Debug\net7.0\QueueDemo.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\QueueDemo\QueueDemo\bin\Debug\net7.0\QueueDemo.pdb
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\QueueDemo\QueueDemo\obj\Debug\net7.0\QueueDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\QueueDemo\QueueDemo\obj\Debug\net7.0\QueueDemo.AssemblyInfoInputs.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\QueueDemo\QueueDemo\obj\Debug\net7.0\QueueDemo.AssemblyInfo.cs
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\QueueDemo\QueueDemo\obj\Debug\net7.0\QueueDemo.csproj.CoreCompileInputs.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\QueueDemo\QueueDemo\obj\Debug\net7.0\QueueDemo.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\QueueDemo\QueueDemo\obj\Debug\net7.0\refint\QueueDemo.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\QueueDemo\QueueDemo\obj\Debug\net7.0\QueueDemo.pdb
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\QueueDemo\QueueDemo\obj\Debug\net7.0\QueueDemo.genruntimeconfig.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\QueueDemo\QueueDemo\obj\Debug\net7.0\ref\QueueDemo.dll
